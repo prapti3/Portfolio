@@ -21,7 +21,7 @@ I'm proficient in a wide range of technologies, including:
 
 - Full Stack Developemt [JavaScript, HTML5, CSS3, BootStrap, Material UI]
 - C\C++, Core Java, Python(Basics)
-- DBMS, OOPS, Computer Networking
+- DBMS, OOPS, Computer Networking, Operating System
 
 ## Let's Connect
 
